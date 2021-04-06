@@ -10,3 +10,6 @@
 * Bachelor in Computer Systems Engineering from University of Manchester in UK
 * Holds mutilple professional certifications in Technology and Cybersecurity fields
 
+<p align="center">
+  <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/cissp.png" width="75" title="hover text">
+</p>
