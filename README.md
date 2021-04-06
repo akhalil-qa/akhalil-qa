@@ -9,3 +9,4 @@
 * Master in Cybersecurity.
 * PhD candidate.
 * Holds mutilple professional certifications in Technology and Cybersecurity fields.
+
