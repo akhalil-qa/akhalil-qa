@@ -6,7 +6,7 @@
 
 ### Ahmed Khalil
 * PhD candidate in Cybersecurity
-* * Master in Cybersecurity
+* Master in Cybersecurity
 * Bachelor in Computer Systems Engineering from University of Manchester in UK
 * Holds mutilple professional certifications in Technology and Cybersecurity fields
 
