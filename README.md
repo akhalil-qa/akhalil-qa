@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/cissp.png" width="90" title="CISSP">
-  <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/ceh.png" width="90" title="CEH">
+  <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/ceh_.png" width="90" title="CEH">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/securityplus.png" width="90" title="Security+">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/ejpt.png" width="90" title="eJPT">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/itil4.png" width="90" title="ITIL4">
