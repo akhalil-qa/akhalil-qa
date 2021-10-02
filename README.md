@@ -4,6 +4,7 @@
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/cehpractical.png" width="90" title="CEH Practical">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/securityplus.png" width="90" title="Security+">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/ejpt.png" width="90" title="eJPT">
+  <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/ecppt.png" width="90" title="eCPPT">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/itil4.png" width="90" title="ITIL4">
   <img src="https://github.com/akhalil-qa/akhalil-qa/blob/main/togaf9foundation.png" width="90" title="TOGAF 9 Foundation">
 </p>
